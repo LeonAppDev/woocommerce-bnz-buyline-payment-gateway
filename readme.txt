@@ -32,7 +32,7 @@ Yes, we also provide custom applications for your website (Paid).
 visit https://creativem.co.nz to contact us
 
 == Screenshots ==
-screenshot-1.png
+1. Plugin Settings Page
 
 == Changelog ==
 1.0 Initial Release
