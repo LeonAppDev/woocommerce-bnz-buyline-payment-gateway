@@ -29,7 +29,7 @@ Yes, this plugin requires WooCommerce v2.1 or higher.
 
 = Do you provide support for this plugin? =
 Yes, we also provide custom applications for your website (Paid).
-visit https://creativem.co.nz to contact us
+visit http://creativem.co.nz to contact us
 
 == Screenshots ==
 1. Plugin Settings Page
