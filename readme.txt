@@ -1,0 +1,37 @@
+=== WooCommerce BNZ Buyline Payment Gateway ===
+Contributors: creativemnz, dollar_dad, keksters
+Tags: bnz, woocommerce, buyline
+Requires at least: 3.8.1
+Tested up to: 3.9.2
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+WooCommerce Custom Payment Gateway for BNZ Buyline iframe application.
+
+== Description ==
+
+Attaches custom payment gateway for BNZ Buyline to the WooCommerce plugin. Secure payment connection through BNZ Buyline to avoid costly SSL certificates. [More info on BNZ Buyline here](https://www.bnz.co.nz/business-banking/cards-and-payments/merchant-services/buy-line-hosted)
+
+
+== Installation ==
+
+1. You should have WooCommerce 2.1 or higher.
+2. You should have talked to BNZ to arrange a Buyline account.
+3. Download WooCommerce BNZ Buyline Payment Gateway through Wordpress's inbuilt plugin uploader.
+4. Go to WooCommerce->Settings->Checkout->BNZ Buylines to fill out the required data
+
+== Frequently Asked Questions ==
+
+= Do I need any other plugins for this to work? =
+
+Yes, this plugin requires WooCommerce v2.1 or higher.
+
+== Screenshots ==
+
+
+== Changelog ==
+
+
+== Upgrade Notice ==
+
