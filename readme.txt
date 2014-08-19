@@ -27,11 +27,15 @@ Attaches custom payment gateway for BNZ Buyline to the WooCommerce plugin. Secur
 
 Yes, this plugin requires WooCommerce v2.1 or higher.
 
-== Screenshots ==
+= Do you provide support for this plugin? =
+Yes, we also provide custom applications for your website (Paid).
+visit https://creativem.co.nz to contact us
 
+== Screenshots ==
+screenshot-1.png
 
 == Changelog ==
-
+1.0 Initial Release
 
 == Upgrade Notice ==
 
