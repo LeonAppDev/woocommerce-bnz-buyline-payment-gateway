@@ -1,4 +1,4 @@
-=== WooCommerce BNZ Buyline Payment Gateway ===
+===  ===
 Contributors: creativemnz, dollar_dad, keksters
 Tags: bnz, woocommerce, buyline,  payment gateway, payment gateways, payment
 Requires at least: 3.8.1
