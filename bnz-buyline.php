@@ -3,7 +3,7 @@
 Plugin name: BNZ Buyline Payment Gateway
 Plugin URI: http://creativem.co.nz
 Description: WooCommerce Custom Payment Gateway for BNZ Buyline iframe application.
-Version: 1.1
+Version: 1.2
 Author: creativemnz
 Author URI: http://creativem.co.nz
 License: GPLv2 or later
@@ -25,7 +25,6 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-if (class_exists( 'WC_Payment_Gateway' ) ) {
 
 	function bnz_buyline_init() {
 		
@@ -217,4 +216,4 @@ if (class_exists( 'WC_Payment_Gateway' ) ) {
 	}
 	
 	add_action( 'plugins_loaded', 'bnz_buyline_init' );
-}
+
