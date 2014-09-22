@@ -13,6 +13,7 @@ WooCommerce Custom Payment Gateway for BNZ Buyline iframe application.
 
 Attaches custom payment gateway for BNZ Buyline to the WooCommerce plugin. Secure payment connection through BNZ Buyline to avoid costly SSL certificates. [More info on BNZ Buyline here](https://www.bnz.co.nz/business-banking/cards-and-payments/merchant-services/buy-line-hosted)
 Has been tested on WooCommerce 2.2.4
+After upgrading to the latest version please check that this plugin has reactivated automatically, if not manually reactivate this plugin.
 
 == Installation ==
 
@@ -41,4 +42,5 @@ visit http://creativem.co.nz to contact us
 1.0 Initial Release
 
 == Upgrade Notice ==
+After upgrading to the latest version please check that this plugin has reactivated automatically, if not manually reactivate this plugin.
 
