@@ -3,7 +3,7 @@ Contributors: creativemnz, dollar_dad, keksters
 Tags: bnz, woocommerce, buyline,  payment gateway, payment gateways, payment
 Requires at least: 3.8.1
 Tested up to: 4.1
-Stable tag: 4.7
+Stable tag: 4.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,7 @@ visit http://creativem.co.nz to contact us
 1. Plugin Settings Page
 
 == Changelog ==
+1.5 Add credit card type to order type note ( displays in view order, the credit card type ).
 1.4 Changed update function so plugin does not need to be reactivated
 1.3 Updated the Gateway Class
 1.2 Updated for WooCommerce 2.2.4

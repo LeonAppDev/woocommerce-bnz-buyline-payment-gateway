@@ -3,7 +3,7 @@
 Plugin name: BNZ Buyline Payment Gateway
 Plugin URI: http://creativem.co.nz
 Description: WooCommerce Custom Payment Gateway for BNZ Buyline iframe application.
-Version: 1.4
+Version: 1.5
 Author: creativemnz
 Author URI: http://creativem.co.nz
 License: GPLv2 or later
@@ -209,6 +209,8 @@ function bnz_buyline_init() {
 			$order = new WC_Order( $order_id );
 			$msg = "Thank you for shopping with us. Your account has been charged and your transaction is successful. We will be shipping your order to you soon.";
 			
+			// Add to the customer order for Card Type
+			$order->add_order_note( $xml->cardType, 1 );
 			
 			$order->payment_complete();
 
