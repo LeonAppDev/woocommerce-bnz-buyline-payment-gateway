@@ -20,6 +20,7 @@ Has been tested on WooCommerce 2.2.10
 2. You should have talked to BNZ to arrange a Buyline account.
 3. Download WooCommerce BNZ Buyline Payment Gateway through Wordpress's inbuilt plugin uploader.
 4. Go to WooCommerce->Settings->Checkout->BNZ Buylines to fill out the required data
+5. Confirm with BNZ that the gateway is live
 
 == Frequently Asked Questions ==
 
